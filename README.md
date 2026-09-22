@@ -12,10 +12,10 @@ I develop both open-source utilities for the scientific community and enterprise
 
 | Project | Description |
 | :--- | :--- |
-| **[STEMRAINCAL](https://github.com/azaleakamellia)** | A registered (MyIPO) Python library for computing standardised drought indices from hydrometeorological inputs. |
+<!-- | **[STEMRAINCAL](https://github.com/azaleakamellia)** | A registered (MyIPO) Python library for computing standardised drought indices from hydrometeorological inputs. | 
 | **TCFD Drought Risk Pipeline** | *(In Development)* An automated workflow ingesting CHIRPS/ERA5/CMIP6 data to output standardized SPI metrics for corporate climate risk reporting. |
-| **ESIA Geospatial Checklist** | *(Coming Soon)* A curated, open-source reference for acquiring and validating spatial data for Malaysian environmental assessments. |
-| **Recreational GEE Scripts** | Experimental Python/JavaScript workflows for novel land-cover visualisation and spatial statistics. |
+| **ESIA Geospatial Checklist** | *(Coming Soon)* A curated, open-source reference for acquiring and validating spatial data for Malaysian environmental assessments. | -->
+| **[Tropical Forest EO Pipeline](https://ee-azaleakamellia.projects.earthengine.app/view/sarawak-landcover-classifier)** | Experimental Python/JavaScript workflows for novel land-cover visualisation and spatial statistics. |
 
 ---
 
